@@ -33,14 +33,6 @@ The project aims to provide a centralized and user-friendly platform while maint
 
 > Features listed above should be adjusted to reflect the actual implemented functionality.
 
-## Screenshots
-
-<!-- Replace these placeholders with actual screenshots -->
-
-| Dashboard | Character Management |
-|:---:|:---:|
-| ![Dashboard](docs/images/dashboard.png) | ![Characters](docs/images/characters.png) |
-
 ## Technology Stack
 
 | Category | Technologies |
@@ -147,10 +139,6 @@ Contributions, suggestions, and bug reports are welcome.
 ## Related Projects
 
 - [Original GTA Pinas UCP – Vanilla PHP](https://github.com/Jake-Hero/php-vanilla-GTAPinas)
-
-## License
-
-Specify the project's license here. If no license has been assigned, all rights remain reserved by the copyright holder.
 
 ---
 
