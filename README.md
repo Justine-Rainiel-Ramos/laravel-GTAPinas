@@ -23,6 +23,7 @@ GTA Pinas User Control Panel (UCP) is a web application developed for GTA Pinas 
 
 The project aims to provide a centralized and user-friendly platform while maintaining integration with the existing game server infrastructure.
 
+<div id="features">
 ## Features
 
 - **Account Management** – Manage player accounts and account-related information.
@@ -32,6 +33,7 @@ The project aims to provide a centralized and user-friendly platform while maint
 - **Responsive Interface** – Accessible across desktop and mobile devices.
 
 > Features listed above should be adjusted to reflect the actual implemented functionality.
+</div>
 
 ## Technology Stack
 
