@@ -29,8 +29,6 @@ The project aims to provide a centralized and user-friendly platform while maint
 - **Server Integration** – Connect web-based services with the game server database.
 - **Responsive Interface** – Accessible across desktop and mobile devices.
 
-> Features listed above should be adjusted to reflect the actual implemented functionality.
-
 ## Technology Stack
 
 | Category | Technologies |
