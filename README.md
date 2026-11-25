@@ -6,8 +6,6 @@
 
 Manage player accounts, characters, in-game information, and other server-related services through a centralized web interface.
 
-[Features](#-features) • [Tech Stack](#-technology-stack) • [Installation](#-installation) • [Screenshots](#-screenshots)
-
 ![Project Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -23,7 +21,6 @@ GTA Pinas User Control Panel (UCP) is a web application developed for GTA Pinas 
 
 The project aims to provide a centralized and user-friendly platform while maintaining integration with the existing game server infrastructure.
 
-<div id="features">
 ## Features
 
 - **Account Management** – Manage player accounts and account-related information.
@@ -33,7 +30,6 @@ The project aims to provide a centralized and user-friendly platform while maint
 - **Responsive Interface** – Accessible across desktop and mobile devices.
 
 > Features listed above should be adjusted to reflect the actual implemented functionality.
-</div>
 
 ## Technology Stack
 
